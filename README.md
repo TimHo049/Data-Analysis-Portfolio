@@ -1,4 +1,4 @@
-## Tim Ho - Data Analyst Portfolio
+## Tim Ho 
 ## About
 Hi, I'm Tim!
 I hold a degree in Biological Sciences from the University of Hong Kong (HKU) and recently completed a postgraduate certificate in Business Analytics at George Brown College in Toronto. My academic background in science taught me how to think critically and solve complex problems, and my experience in digital marketing sparked a strong interest in data analysis.
