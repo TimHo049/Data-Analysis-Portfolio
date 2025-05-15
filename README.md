@@ -13,7 +13,7 @@ This GitHub repository is where I share my projects, showcase my skills, and tra
 
 ## Data Analysis & Machine Learning
 
-- [RFM and Cohort Analysis](https://github.com/TimHo049/RFM-and-Cohort-Analysis---Python) - Python, Jupyter Notebook
+- [RFM and Cohort Analysis](https://github.com/TimHo049/RFM-and-Cohort-Analysis---Python) - Python
   
   A comprehensive customer retention analysis spanning December 2009 to December 2011. Implemented RFM (Recency, Frequency, Monetary) segmentation and cohort analysis to track retention patterns. Features custom Python implementations for data processing, cohort indexing, and visualization.
 
