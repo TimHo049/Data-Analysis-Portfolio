@@ -9,63 +9,24 @@ I have hands-on experience with data manipulation, visualization, and statistica
 
 This GitHub repository is where I share my projects, showcase my skills, and track my progress in data analytics and data science.
 
-# Table of Contents
+# Portfolio Projects
 
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-  - [Python](#python)
-    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](#tech-store-sales-analysis)
-  - [SQL](#sql)
-    - [Covid 19 Data Exploration](#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
-  - [R](#r)
-    - [Legendary Pokémon Analysis (Study Project)](#legendary-pokémon-analysis-study-project)
-  - [Excel / Google Sheets](#excel--google-sheets)
-  - [Tableau](#tableau)
-  - [Power BI](#power-bi)
-- [Education](#education)
-- [Certificates](#certificates)
-- [Contact](#contact)
+## Data Analysis & Machine Learning
 
-## About
-<!-- Add your about information here -->
+- [RFM and Cohort Analysis](https://github.com/TimHo049/RFM-and-Cohort-Analysis---Python) - Python, Jupyter Notebook
+  
+  A comprehensive customer retention analysis spanning December 2009 to December 2011. Implemented RFM (Recency, Frequency, Monetary) segmentation and cohort analysis to track retention patterns. Features custom Python implementations for data processing, cohort indexing, and visualization.
 
-## Portfolio Projects
+- [Machine Failure Prediction](https://github.com/TimHo049/Machine-Failure-Prediction---Python) - Python, ML
+  
+  Developed a predictive maintenance solution using machine learning algorithms (Logistic Regression, Random Forest, SVM) to forecast equipment failures. Implemented advanced resampling techniques to address class imbalance, improving model performance on minority failure cases.
 
-### Python
-#### [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/yourusername/movie-success-analysis)
-<!-- Add project description here -->
+## Business Analytics & Visualization
 
-#### [Tech Store Sales Analysis](https://github.com/yourusername/tech-store-sales)
-<!-- Add project description here -->
+- [Brazilian E-commerce Analysis](https://github.com/TimHo049/Brazil-Ecommerce-Sales-Analysis---SQL-Excel-Tableau) - SQL, Excel, Tableau
+  
+  Analyzed Brazilian e-commerce sales data (2016-2018) to uncover key business insights. Created interactive dashboards highlighting revenue trends, customer segmentation, regional performance, and satisfaction metrics using SQL for data extraction and Tableau for visualization.
 
-### SQL
-#### [Covid 19 Data Exploration](https://github.com/yourusername/covid-data-exploration)
-<!-- Add project description here -->
-
-#### [Nashville Housing Data Cleaning](https://github.com/yourusername/nashville-housing)
-<!-- Add project description here -->
-
-### R
-#### [Legendary Pokémon Analysis (Study Project)](https://github.com/yourusername/pokemon-analysis)
-<!-- Add project description here -->
-
-### Excel / Google Sheets
-<!-- Add your Excel/Google Sheets projects here -->
-
-### Tableau
-[Go to Tableau](https://public.tableau.com/profile/yourusername)
-<!-- Add your Tableau projects here -->
-
-### Power BI
-<!-- Add your Power BI projects here -->
-
-## Education
-<!-- Add your education here -->
-
-## Certificates
-<!-- Add your certificates here -->
-
-## Contact
-<!-- Add your contact information here -->
+- [Indian E-commerce Revenue Analysis](https://github.com/TimHo049/Indian-Ecommerce-Revenue-Analysis---SQL-Tableau) - SQL, Tableau
+  
+  Conducted in-depth analysis of an Indian e-commerce platform's sales data. Leveraged SQL queries to extract insights from Orders and Order Details datasets, focusing on revenue patterns across regions, product categories, and time periods, with interactive Tableau dashboards.
