@@ -25,7 +25,7 @@ This GitHub repository is where I share my projects, showcase my skills, and tra
 
 - [Brazilian E-commerce Analysis](https://github.com/TimHo049/Brazil-Ecommerce-Sales-Analysis---SQL-Excel-Tableau) - SQL, Excel, Tableau
   
-This repository analyzes Brazilian e-commerce sales (2016–2018) using SQL, Excel, and Tableau. It features revenue trends, top customers, regional sales, and satisfaction insights. Excel pivot tables and functions like VLOOKUP were used to clean and organize data.
+  This repository analyzes Brazilian e-commerce sales (2016–2018) using SQL, Excel, and Tableau. It features revenue trends, top customers, regional sales, and satisfaction insights. Excel pivot tables and functions like VLOOKUP were used to clean and organize data.
 
 - [Indian E-commerce Revenue Analysis](https://github.com/TimHo049/Indian-Ecommerce-Revenue-Analysis---SQL-Tableau) - SQL, Tableau
   
