@@ -25,7 +25,7 @@ This GitHub repository is where I share my projects, showcase my skills, and tra
 
 - [Brazilian E-commerce Analysis](https://github.com/TimHo049/Brazil-Ecommerce-Sales-Analysis---SQL-Excel-Tableau) - SQL, Excel, Tableau
   
-  Analyzed Brazilian e-commerce sales data (2016-2018) to uncover key business insights. Created interactive dashboards highlighting revenue trends, customer segmentation, regional performance, and satisfaction metrics using SQL for data extraction and Tableau for visualization.
+  Analyzed Brazilian e-commerce sales data (2016-2018) using a multi-tool approach. Extracted insights with SQL queries, created detailed Excel pivot tables for customer segmentation and product analysis, and designed interactive Tableau dashboards highlighting revenue trends, regional performance, and customer satisfaction metrics.
 
 - [Indian E-commerce Revenue Analysis](https://github.com/TimHo049/Indian-Ecommerce-Revenue-Analysis---SQL-Tableau) - SQL, Tableau
   
